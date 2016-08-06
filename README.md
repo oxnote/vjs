@@ -6,4 +6,4 @@ Versatile and Very Simple Javascript Distributed Web/Mobile Mini Framework
 
 - VJS 버전 다운로드
 - vjs checkout branch
-- oxnote added message
+- onother test delete and add
