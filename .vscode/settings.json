@@ -1,0 +1,17 @@
+{
+  "editor.tabSize": 2,
+  "editor.wrappingColumn": 120,
+  "files.exclude": {
+    "**/app":true,
+    "**/hooks":true,
+    "**/node_modules":true,
+    "**/platforms":true,
+    "**/plugins":true,
+    "**/resources":true,
+    "**/www/build":true,
+    "**/typings":true
+  },
+  "search.exclude":{
+    "**/*/dist":true
+  }
+}
