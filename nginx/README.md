@@ -12,7 +12,7 @@ Windows용입니다. 리눅스 버전은 이미 서버 환경이 구축되었다
 혹시 포트를 바꾸고 싶은 경우 server 8100으로 실행
 
 ### PHP도 함께 사용하는 경우
-Windows용 PHP를 다운로드합니다. 7.0.9버전의 경우 (여기)[http://windows.php.net/downloads/releases/php-7.0.9-nts-Win32-VC14-x64.zip]에서 다운로드 한 후 적당한 폴더에 압축을 풉니다. 이 예제에서는 d:\php\php709 폴더에 풀었다고 가정합니다.
+Windows용 PHP를 다운로드합니다. 7.0.9버전의 경우 [여기](http://windows.php.net/downloads/releases/php-7.0.9-nts-Win32-VC14-x64.zip)에서 다운로드 한 후 적당한 폴더에 압축을 풉니다. 이 예제에서는 d:\php\php709 폴더에 풀었다고 가정합니다.
 
 개발용이므로 php.ini.development를 php.ini로 이름 변경합니다. 
 
